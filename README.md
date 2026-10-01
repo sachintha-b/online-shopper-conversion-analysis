@@ -198,32 +198,30 @@ The Tableau Public dashboards provide an interactive view of the main findings f
 This dashboard presents:
 
 - Overall conversion rate
-
 - Purchasing and total sessions
-
 - Conversion by visitor type
-
 - Monthly conversion
-
 - Weekday vs weekend conversion
-
 - Interactive filters
+
+[View Dashboard 1 — Conversion Overview](https://public.tableau.com/views/OnlineShopperConversionAnalysis/ConversionOverview?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Dashboard 2 — Shopper Behaviour
 
 This dashboard compares purchasing and non-purchasing sessions across:
 
 - Product-related page views
-
 - Product browsing time
-
 - Bounce rate
-
 - Exit rate
+
+[View Dashboard 2 — Shopper Behaviour](https://public.tableau.com/views/OnlineShopperConversionAnalysis/ShopperBehaviour?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Dashboard 3 — Traffic and Conversion
 
-This dashboard examines the differences in conversion between traffic types, comparing both conversion rate and session volume.
+This dashboard examines differences in conversion across traffic types and considers both conversion rate and session volume.
+
+[View Dashboard 3 — Traffic and Conversion](https://public.tableau.com/views/OnlineShopperConversionAnalysis/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Business Recommendations
 
