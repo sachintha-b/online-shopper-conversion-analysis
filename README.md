@@ -259,6 +259,12 @@ There are some limitations to this analysis.
 
 - Tableau Public — Interactive dashboards
 
+## Related Article
+
+I also documented the project and its key findings on LinkedIn.
+
+[Read the LinkedIn article](https://lnkd.in/p/d6jP8xeK)
+
 ## Author
 
 Sachintha Bulathsinhala
